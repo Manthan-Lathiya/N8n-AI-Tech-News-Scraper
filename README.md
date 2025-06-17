@@ -1,6 +1,6 @@
 # AI Tech Article Scraper and Publisher
 
-This repository contains an n8n workflow (`AI_Tech_Article_Scraper_and_Publisher_GitHub.json`) that automates the process of scraping AI and tech articles from various RSS feeds, filtering them, summarizing them using an AI model, checking for duplicates, posting them to a Telegram channel, and storing them in Airtable.
+This repository contains an n8n workflow (`workflows/AI_Tech_Article_Scraper_and_Publisher_GitHub.json`) that automates the process of scraping AI and tech articles from various RSS feeds, filtering them, summarizing them using an AI model, checking for duplicates, posting them to a Telegram channel, and storing them in Airtable.
 
 ## Overview
 
@@ -65,6 +65,10 @@ The workflow performs the following tasks:
 ## Contributing
 
 Feel free to fork this repository, make improvements to the workflow, and submit a pull request. Suggestions for additional features (e.g., more websites, better filtering, or different AI models) are welcome!
+
+## Screenshot
+
+![workflow-preview](https://github.com/user-attachments/assets/40fad917-7342-4f72-9b8e-81cf96f3c090)
 
 ## License
 
